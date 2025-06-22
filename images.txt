@@ -5,6 +5,6 @@ billionmail/rspamd:1.1
 billionmail/dovecot:1.4
 billionmail/postfix:1.4
 roundcube/roundcubemail:1.6.10-fpm-alpine
-billionmail/core:3.0.1
+billionmail/core:3.0.2
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
