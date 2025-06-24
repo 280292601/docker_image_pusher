@@ -1,4 +1,4 @@
 #支持私库
-ghcr.io/mailu/nginx:2024.06
+ghcr.io/mailu/oletools:2024.06
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
