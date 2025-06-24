@@ -1,4 +1,26 @@
 #支持私库
-ghcr.io/mailu/oletools:2024.06
+# DNS 解析器
+ghcr.io/mailu/unbound:2024.06
+
+# 管理界面
+ghcr.io/mailu/admin:2024.06
+
+# IMAP 服务 (Dovecot)
+ghcr.io/mailu/dovecot:2024.06
+
+# SMTP 服务 (Postfix)
+ghcr.io/mailu/postfix:2024.06
+
+# 反垃圾邮件 (Rspamd)
+ghcr.io/mailu/rspamd:2024.06
+
+# WebDAV/CalDAV 服务
+ghcr.io/mailu/radicale:2024.06
+
+# 邮件获取服务
+ghcr.io/mailu/fetchmail:2024.06
+
+# 网页邮件界面 (Roundcube)
+ghcr.io/mailu/webmail:2024.06
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
